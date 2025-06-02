@@ -38059,7 +38059,7 @@ A.xo.prototype={
 I(){return"IngredientSortField."+this.b}}
 A.Ju.prototype={
 L(a){var s=null,r=A.aA(255,67,125,136),q=A.cT(s,s,B.k,s,s,s,s,s,s,s,s,20,s,s,B.iG,s,s,!0,s,s,s,s,s,s,s,s)
-return new A.y4(new A.wu(s),"Gerichte Kalkulator",A.tu(A.ars(s,r,s,s,s,new A.cF(s,s,s,s,s,A.aA(255,255,255,255),s,s,s),s,s,s,s,s,s,q,s,s),s,s,B.j9,s),s)}}
+return new A.y4(new A.wu(s),"ChefKalky",A.tu(A.ars(s,r,s,s,s,new A.cF(s,s,s,s,s,A.aA(255,255,255,255),s,s,s),s,s,s,s,s,s,q,s,s),s,s,B.j9,s),s)}}
 A.wu.prototype={
 af(){return new A.OI(t.PG.a($.hR().fv("settingsBox",!1,t.z)),B.iq)}}
 A.OI.prototype={
